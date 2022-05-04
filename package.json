@@ -1,0 +1,11 @@
+{
+  "name": "sketchflow",
+  "description": "Get those drawing reps in",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "app",
+    "server",
+    "extension"
+  ]
+}
