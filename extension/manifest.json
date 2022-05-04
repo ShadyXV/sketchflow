@@ -1,0 +1,10 @@
+{
+  "name": "sketchflow-extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Add images to your sketchflow boards!",
+  "permissions": [
+    "storage",
+    "webNavigation"
+  ]
+}
